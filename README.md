@@ -4,7 +4,7 @@
 
 Es Posta es una aplicación web que ayuda a los usuarios a verificar la credibilidad de las noticias analizando las fuentes y proporcionando puntuaciones de confiabilidad con feedback visual intuitivo.
 
----
+-----
 
 ## 🌟 Características
 
@@ -16,7 +16,7 @@ Es Posta es una aplicación web que ayuda a los usuarios a verificar la credibil
 - **Interfaz Intuitiva**: Diseño limpio y fácil de usar
 - **Respuestas Rápidas**: Análisis en tiempo real de las noticias ingresadas
 
----
+-----
 
 ## 🚀 Tecnologías
 
@@ -26,7 +26,7 @@ Es Posta es una aplicación web que ayuda a los usuarios a verificar la credibil
 - **Gestión de Estado**: React Hooks
 - **Estilos**: CSS3
 
----
+-----
 
 ## 📋 Requisitos Previos
 
@@ -34,7 +34,7 @@ Es Posta es una aplicación web que ayuda a los usuarios a verificar la credibil
 - npm o yarn
 - Clave API para el servicio de análisis (configurar en variables de entorno)
 
----
+-----
 
 ## 🔧 Instalación
 
@@ -78,7 +78,7 @@ npm start
 
 La aplicación estará disponible en `http://localhost:3000`
 
----
+-----
 
 ## 📁 Estructura del Proyecto
 
@@ -99,7 +99,7 @@ es-posta/
 └── README.md
 ```
 
----
+-----
 
 ## 💡 Uso
 
@@ -109,7 +109,7 @@ es-posta/
 4. Revisa la puntuación de confiabilidad y el feedback codificado por colores
 5. Lee las recomendaciones y fuentes sugeridas para contrastar
 
----
+-----
 
 ## 🔒 Seguridad
 
@@ -117,7 +117,7 @@ es-posta/
 - No se almacenan datos de usuario
 - Todas las consultas son anónimas
 
----
+-----
 
 ## 🤝 Contribuciones
 
@@ -129,7 +129,7 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
----
+-----
 
 ## 📝 Roadmap
 
@@ -140,4 +140,4 @@ Las contribuciones son bienvenidas. Por favor:
 - [ ] Base de datos de fuentes verificadas
 - [ ] Sistema de reportes comunitarios
 
----
+-----
